@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ben – Founder of [Treno Finance](https://treno.finance)
+# 👋 Hi, I'm Ben – Creator of [Treno Finance](https://treno.finance)
 
 I build tools for serious DeFi risk analysis.  
 From protocol-level monitoring to personalized lending risk reports –  
