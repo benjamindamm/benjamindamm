@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Ben – Founder of [Treno Finance](https://treno.finance)
 
-<!--
-**benjamindamm/benjamindamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools for serious DeFi risk analysis.  
+From protocol-level monitoring to personalized lending risk reports –  
+my work is focused on making crypto safer and more transparent.
 
-Here are some ideas to get you started:
+## 📊 What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Treno Finance](https://treno.finance) – Public risk dashboards & reports
+- Risk indicator framework (JSON-based logic)
+- Protocol analytics (Aave, Compound, Morpho)
+
+## 📡 Find me elsewhere
+
+[Twitter](https://twitter.com/BenFightsRisk) • [LinkedIn](https://www.linkedin.com/in/dein-profil) • [Treno Blog](https://treno.finance/blog)
