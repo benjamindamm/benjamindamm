@@ -16,11 +16,6 @@ At [Treno Finance](https://treno.finance), we focus on transparency, risk litera
 > **Risk reports, analytics & public dashboards**  
 > For everyone who takes DeFi seriously.
 
-- [🌐 Website](https://treno.finance)
-- [🧠 Blog & Reports](https://treno.finance/blog)
-- [📡 Risk Indicators](https://treno.finance/indicators)
-- [📘 Framework Docs (coming soon)](https://treno.finance/framework)
-
 ## 👨‍💻 Technologies & Stack
 
 | Area             | Tools / Focus                                          |
