@@ -12,4 +12,4 @@ my work is focused on making crypto safer and more transparent.
 
 ## 📡 Find me elsewhere
 
-[Twitter](https://twitter.com/BenFightsRisk) • [LinkedIn](https://www.linkedin.com/in/dein-profil) • [Treno Blog](https://treno.finance/blog)
+[Twitter](https://twitter.com/BenFightsRisk) • [LinkedIn](https://www.linkedin.com/in/dein-profil) • [Treno Blog](https://treno.finance/blog) • [Reddit](https://www.reddit.com/user/cloudwalker187/)
