@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ben – DeFi Risk Analyst & Founder of [Treno Finance](https://treno.finance)
+# 👋 Hi, I'm Ben – DeFi Risk Analyst & Creator of [Treno Finance](https://treno.finance)
 
 I'm building tools that help investors, analysts, and asset managers understand risk in decentralized finance – without hype, moon-charts, or false promises.  
 At [Treno Finance](https://treno.finance), we focus on transparency, risk literacy, and data-driven insights for crypto portfolios.
