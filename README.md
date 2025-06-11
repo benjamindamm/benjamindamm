@@ -36,9 +36,9 @@ At [Treno Finance](https://treno.finance), we focus on transparency, risk litera
 ## 🌐 Find Me Online
 
 [![Twitter](https://img.shields.io/badge/Twitter-@BenFightsRisk-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/BenFightsRisk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ben-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-damm)
-[![GitHub](https://img.shields.io/badge/GitHub-benfightsrisk-181717?style=flat&logo=github)](https://github.com/benjamindamm)
-[![Reddit](https://img.shields.io/badge/Reddit-Ben-orange?style=flat&logo=reddit)](https://www.reddit.com/user/cloudwalker187)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin_Damm-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-damm)
+[![GitHub](https://img.shields.io/badge/GitHub-benjamindamm-181717?style=flat&logo=github)](https://github.com/benjamindamm)
+[![Reddit](https://img.shields.io/badge/Reddit-cloudwalker187-orange?style=flat&logo=reddit)](https://www.reddit.com/user/cloudwalker187)
 
 ## ⚡ Quick Facts
 
