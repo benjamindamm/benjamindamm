@@ -1,53 +1,53 @@
-# 👋 Hi, I'm Ben – DeFi Risk Analyst & Creator of [Treno.Finance](https://treno.finance)
+# 👋 Hello, I'm Ben – Engineer, Risk Analyst, Founder
 
-I'm building tools that help investors, analysts, and asset managers understand risk in decentralized finance – without hype, moon-charts, or false promises.  
-At [Treno Finance](https://treno.finance), we focus on transparency, risk literacy, and data-driven insights for crypto portfolios.
+I work at the intersection of software engineering, risk analytics, and financial technology. For over a decade, I’ve built complex web applications for banks, insurers, public institutions, and industry – with a clear focus on structure, maintainability, and clarity.
 
-## 🧠 What I Do
-
-- 📊 **Design crypto risk indicators** based on protocol mechanics and behavioral patterns  
-- 🧾 **Write in-depth risk reports** for lending protocols (Aave, Compound, Morpho, etc.)  
-- 🛡️ **Build a structured risk catalog** with YAML/Markdown logic – human & machine-readable  
-- 📈 **Develop dashboards** with real-time metrics like liquidation exposure, stablecoin dominance, or market stress response  
-- 🛠️ **Create modular tooling** for portfolio diagnostics & compliance support
-
-## 🚀 Treno.Finance
-
-> **Risk reports, analytics & public dashboards**  
-> For everyone who takes DeFi seriously.
-
-## 👨‍💻 Technologies & Stack
-
-| Area             | Tools / Focus                                          |
-|------------------|--------------------------------------------------------|
-| Frontend         | React (Next.js), Tailwind, Shadcn, Storybook          |
-| Logic Layer      | TypeScript, Signals, JSON Logic, Markdown models      |
-| Data & Indexing  | The Graph, Ponder, Messari subgraphs, custom crawlers |
-| DeFi APIs        | Aave, Compound, dHedge, Morpho, Coingecko, DefiLlama  |
-| Risk Design      | Structured YAML, Markdown schemas, dynamic scoring    |
-
-## 🎓 Background
-
-- 🏦 10+ years experience in finance & software – banking, compliance, crypto  
-- 📚 Studied literature & computer science – combining logic and storytelling  
-- 🇨🇭 Based in Switzerland – working across the DACH region & Europe  
-- 🎓 Currently completing a certificate in portfolio management & finance risk
-
-## 🌐 Find Me Online
-
-[![Twitter](https://img.shields.io/badge/Twitter-@BenFightsRisk-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/BenFightsRisk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin_Damm-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benjamin-damm)
-[![GitHub](https://img.shields.io/badge/GitHub-benjamindamm-181717?style=flat&logo=github)](https://github.com/benjamindamm)
-[![Reddit](https://img.shields.io/badge/Reddit-cloudwalker187-orange?style=flat&logo=reddit)](https://www.reddit.com/user/cloudwalker187)
-
-## ⚡ Quick Facts
-
-- I believe trust in crypto must be **earned through clarity and structure**
-- I don’t shill tokens, but I analyze them
-- I build tools I wish existed when I started investing
+I'm also the founder of [Treno.Finance](https://treno.finance), a project dedicated to transparent risk assessment in decentralized finance. There, I develop tools, metrics, and dashboards that help investors understand crypto assets without relying on speculation or hype.
 
 ---
 
-> 💬 *"You don’t need a crystal ball – just better visibility."*  
-> – Treno Finance
+## 🧭 What I Do
 
+- **Frontend architecture** in Angular & React, with an emphasis on reusability, accessibility, and coherent design systems  
+- **Risk indicators** for DeFi protocols like Aave, Compound, or Morpho – built on technical and economic signals  
+- **Structured catalogues & scoring models** for crypto portfolio analysis  
+- **Mentoring & technical leadership**, most recently in building a design system for a Swiss online bank  
+- **International projects** across industries and continents – including public sector, telecom, and industrial control systems
+
+---
+
+## 🔧 Tools & Technologies
+
+| Area             | Tools & Focus                                                 |
+|------------------|---------------------------------------------------------------|
+| **Frontend**     | Angular (2–16), React (Next.js), Tailwind, Storybook, RxJS    |
+| **Backend**      | Node.js, Nest.js, GraphQL, Redis, RabbitMQ                    |
+| **Data & DeFi**  | The Graph, Ponder, YAML/Markdown modelling, JSON Logic        |
+| **CI & Testing** | Docker, Jenkins, GitLab CI, Jest, Selenium, Galen             |
+| **Languages**    | TypeScript, JavaScript, YAML, Markdown, Python                |
+
+---
+
+## 🎓 Background
+
+- **Studies**: Linguistics & International Management (BA, Uni Jena), Computer Science (BSc, TU Chemnitz)  
+- **Experience**: 25+ software projects across regulated industries – from insurance frontends to industrial IoT  
+- **Languages**: German (native), English (fluent), Romanian, Russian, and Polish (basic proficiency)  
+- **Based** in Switzerland, working across the DACH region and Europe  
+- **Currently** completing a certification in portfolio management and financial risk
+
+---
+
+## 🧩 What Drives Me
+
+I don’t believe in empty promises. I believe in well-structured software, in metrics that matter, and in risks that deserve to be named and handled – not ignored.
+
+---
+
+## 🔗 Where to Find Me
+
+[Twitter](https://twitter.com/BenFightsRisk) • [LinkedIn](https://www.linkedin.com/in/benjamin-damm) • [GitHub](https://github.com/benjamindamm) • [Reddit](https://www.reddit.com/user/cloudwalker187)
+
+---
+
+> *“You don’t have to know everything – but you should know what you ought to know.”*
