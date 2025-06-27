@@ -18,13 +18,17 @@ I'm also the founder of [Treno.Finance](https://treno.finance), a project dedica
 
 ## 🔧 Tools & Technologies
 
-| Area             | Tools & Focus                                                 |
-|------------------|---------------------------------------------------------------|
-| **Frontend**     | Angular (2–16), React (Next.js), Tailwind, Storybook, RxJS    |
-| **Backend**      | Node.js, Nest.js, GraphQL, Redis, RabbitMQ                    |
-| **Data & DeFi**  | The Graph, Ponder, YAML/Markdown modelling, JSON Logic        |
-| **CI & Testing** | Docker, Jenkins, GitLab CI, Jest, Selenium, Galen             |
-| **Languages**    | TypeScript, JavaScript, YAML, Markdown, Python                |
+| Area              | Stack & Focus                                                                 |
+|-------------------|--------------------------------------------------------------------------------|
+| **Frontend**      | Angular (2–16), React (Next.js), Tailwind CSS, Shadcn, RxJS, Storybook         |
+| **Architecture**  | Component libraries, micro frontends, domain-driven design                     |
+| **Backend/API**   | Node.js, Nest.js, GraphQL, Redis, RabbitMQ, OpenAPI, SAML, OAuth               |
+| **DevOps/Cloud**  | Docker, Azure, GitLab CI/CD, Jenkins, Internal cloud platforms                 |
+| **Testing & QA**  | Jest, Karma, Jasmine, Selenium, Galen, Unit testing pipelines                  |
+| **Data & DeFi**   | The Graph, Ponder, Messari Subgraphs, custom crawlers, DefiLlama, Coingecko    |
+| **Modelling**     | YAML, Markdown, JSON Logic, score-based schemas                                |
+| **Legacy Systems**| AngularJS, PHP/Java migrations, .NET integrations                              |
+| **IoT/Industry**  | MQTT, SignalR, UI for industrial machines (e.g. Zeiss, Bosch)                  |
 
 ---
 
