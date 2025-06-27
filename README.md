@@ -11,7 +11,7 @@ At [Treno Finance](https://treno.finance), we focus on transparency, risk litera
 - 📈 **Develop dashboards** with real-time metrics like liquidation exposure, stablecoin dominance, or market stress response  
 - 🛠️ **Create modular tooling** for portfolio diagnostics & compliance support
 
-## 🚀 Treno Finance
+## 🚀 Treno.Finance
 
 > **Risk reports, analytics & public dashboards**  
 > For everyone who takes DeFi seriously.
