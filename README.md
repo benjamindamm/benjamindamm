@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ben – Engineer & Founder
 
 I build software with a focus on clarity, structure, and long-term maintainability.  
-For more than ten years I’ve worked on web applications for banks, insurers, the public sector, and industry.  
+For more than ten years I've worked on web applications for banks, insurers, the public sector, and industry.
 
-I’m also the founder of [Treno.Finance](https://treno.finance), a project for transparent risk assessment in decentralized finance. There I develop tools and dashboards to help investors understand crypto assets without speculation.  
+I'm also the founder of [Railpath](https://github.com/railpath), an open source organization for financial tools and risk frameworks. The goal: building infrastructure that belongs to everyone, not to companies or individuals.
 
 ---
 
@@ -13,6 +13,7 @@ I’m also the founder of [Treno.Finance](https://treno.finance), a project for 
 - **Design systems & component libraries** with accessibility in mind  
 - **Risk models & indicators** for DeFi protocols (Aave, Compound, Morpho)  
 - **Portfolio analysis tools** based on structured catalogues and scoring models  
+- **Open source maintainer** at [@railpath](https://github.com/railpath)  
 - **Mentoring & leadership**, most recently in building a design system for a Swiss online bank  
 
 ---
