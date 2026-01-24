@@ -5,7 +5,12 @@ Over ten years of experience developing web applications for banks, insurers, th
 
 Founder of [Treno.Finance](https://treno.finance), a project for transparent risk assessment in decentralized finance. Development of tools and dashboards for crypto asset analysis.
 
-Open source: [financial-toolkit](https://www.npmjs.com/package/financial-toolkit), an npm package for financial calculations and analysis; [web3-open-risk-framework](https://github.com/railpath/web3-open-risk-framework), a comprehensive framework for Web3 risk assessment and management; [Pixel Grid](https://chromewebstore.google.com/detail/pixel-grid/efeamoogmfgfgohhgibfjmnifhoahdha), a Chrome extension for pixel-perfect grid overlays in web development.
+Maintainer of [Railpath](https://github.com/railpath/railpath) - an open source organization dedicated to building financial and technical tools
+- [financial-toolkit](https://www.npmjs.com/package/financial-toolkit), an npm package for financial calculations and analysis;
+- [web3-open-risk-framework](https://github.com/railpath/web3-open-risk-framework), a comprehensive framework for Web3 risk assessment and management;
+
+Open Source:
+- [Pixel Grid](https://chromewebstore.google.com/detail/pixel-grid/efeamoogmfgfgohhgibfjmnifhoahdha), a Chrome extension for pixel-perfect grid overlays in web development.
 
 ---
 
