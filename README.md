@@ -61,4 +61,4 @@ Open Source:
 
 ## Contact
 
-[Twitter](https://twitter.com/BenFightsRisk) • [LinkedIn](https://www.linkedin.com/in/benjamin-damm) • [GitHub](https://github.com/benjamindamm) • [Reddit](https://www.reddit.com/user/cloudwalker187)
+[LinkedIn](https://www.linkedin.com/in/benjamin-damm) • [GitHub](https://github.com/benjamindamm)
