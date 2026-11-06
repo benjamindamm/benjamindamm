@@ -3,7 +3,7 @@
 Software development with focus on clarity, structure, and long-term maintainability.  
 Over ten years of experience developing web applications for banks, insurers, the public sector, and industry.
 
-Founder of [Treno.Finance](https://treno.finance), a project for transparent risk assessment in decentralized finance. Development of tools and dashboards for crypto asset analysis.
+Experience in risk assessment, data analysis, and the development of analytical tools and dashboards.
 
 Maintainer of [Railpath](https://github.com/railpath/railpath) - an open source organization dedicated to building financial and technical tools
 - [financial-toolkit](https://www.npmjs.com/package/financial-toolkit), an npm package for financial calculations and analysis;
